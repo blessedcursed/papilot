@@ -1,4 +1,4 @@
-import { _electron as electron } from '../vendor/latex-review/node_modules/@playwright/test/index.mjs';
+import { _electron as electron } from '../engine/node_modules/@playwright/test/index.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import os from 'node:os';
